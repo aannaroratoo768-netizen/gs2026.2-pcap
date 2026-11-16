@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentação",
+    "titulo": "Emitir a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "ctps", "carteira digital", "trabalho digital"],
+    "resposta": "A Carteira de Trabalho agora é 100% digital. Basta criar uma conta Gov.br e baixar o aplicativo Carteira de Trabalho Digital no celular para ativá-la automaticamente.",
+    "documentos": ["CPF", "Conta Gov.br ativa"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br/trabalho",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentação",
+    "titulo": "Emitir a primeira via do CPF",
+    "palavras_chave": ["cpf", "cadastro de pessoa fisica", "tirar cpf", "primeiro cpf"],
+    "resposta": "A inscrição no CPF é gratuita e pode ser feita pela internet no site da Receita Federal ou presencialmente em agências dos Correios, Banco do Brasil ou Caixa.",
+    "documentos": ["Certidão de Nascimento ou RG", "Título de Eleitor (se maior de 18 anos)"],
+    "onde": "Site da Receita Federal, Correios, Banco do Brasil ou Caixa Econômica",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentação",
+    "titulo": "Tirar o primeiro Título de Eleitor",
+    "palavras_chave": ["titulo de eleitor", "titulo eleitoral", "alistamento eleitoral", "votar"],
+    "resposta": "Jovens a partir de 15 anos já podem solicitar o primeiro título pelo sistema Título Net no site do TSE, sem precisar sair de casa.",
+    "documentos": ["Documento oficial de identificação com foto", "Comprovante de residência recente", "Certificado de quitação militar (homens no ano em que completam 19 anos)"],
+    "onde": "Portal Autoatendimento Eleitoral do TSE (tse.jus.br)",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentação",
+    "titulo": "Alistamento Militar Obrigatório",
+    "palavras_chave": ["alistamento militar", "reservista", "exercito", "certificado militar"],
+    "resposta": "Todo jovem do sexo masculino deve fazer o alistamento militar online ou na Junta de Serviço Militar nos primeiros 6 meses do ano em que completa 18 anos.",
+    "documentos": ["Certidão de Nascimento ou RG", "CPF", "Comprovante de residência"],
+    "onde": "Site alistamento.eb.mil.br ou Junta de Serviço Militar do município",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 5,
+    "categoria": "Direitos Trabalhistas",
+    "titulo": "Regras do Programa Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendiz", "menor aprendiz", "lei da aprendizagem"],
+    "resposta": "Destinado a jovens de 14 a 24 anos matriculados na escola ou que já concluíram o ensino médio. A jornada máxima é de 6 horas diárias e inclui curso de capacitação.",
+    "documentos": ["RG e CPF", "Carteira de Trabalho Digital", "Declaração de matrícula escolar"],
+    "onde": "Portais oficiais como CIEE, SENAI, SENAC ou diretamente nas empresas",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 6,
+    "categoria": "Direitos Trabalhistas",
+    "titulo": "Como funciona o Estágio Remunerado",
+    "palavras_chave": ["estagio", "estagiario", "bolsa auxilio", "contrato de estagio"],
+    "resposta": "O estágio não gera vínculo empregatício, mas garante bolsa-auxílio, auxílio-transporte, seguro contra acidentes e recesso remunerado de 30 dias a cada 12 meses.",
+    "documentos": ["Declaração de matrícula ativa (Ensino Médio, Técnico ou Superior)", "RG e CPF", "Termo de Compromisso de Estágio (TCE)"],
+    "onde": "Agentes de integração (CIEE, NUBE) ou setor de estágios da instituição de ensino",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 7,
+    "categoria": "Direitos Trabalhistas",
+    "titulo": "Consultar saldo e extrato do FGTS",
+    "palavras_chave": ["fgts", "fundo de garantia", "saldo fgts", "extrato fgts"],
+    "resposta": "Trabalhadores com carteira assinada e jovens aprendizes têm direito ao depósito mensal de FGTS (8% para CLT comum e 2% para Jovem Aprendiz). A consulta é feita pelo aplicativo oficial.",
+    "documentos": ["CPF", "Senha cadastrada no aplicativo FGTS"],
+    "onde": "Aplicativo oficial FGTS (Caixa Econômica Federal)",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 8,
+    "categoria": "Direitos Trabalhistas",
+    "titulo": "Prazo para assinatura da Carteira de Trabalho",
+    "palavras_chave": ["assinar carteira", "registro em carteira", "prazo registro", "clt"],
+    "resposta": "O empregador tem o prazo legal de até 5 dias úteis após a admissão para registrar o contrato de trabalho no eSocial, que aparece automaticamente na Carteira Digital.",
+    "documentos": ["CPF", "Dados bancários e comprovante de endereço solicitados pela empresa"],
+    "onde": "Acompanhamento pelo aplicativo Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 9,
+    "categoria": "Qualificação e Benefícios",
+    "titulo": "Solicitar o Vale-Transporte no emprego",
+    "palavras_chave": ["vale transporte", "vt", "passagem", "onibus trabalho"],
+    "resposta": "O vale-transporte é um direito de todo trabalhador CLT e Jovem Aprendiz que utiliza transporte público. A empresa pode descontar até 6% do salário-base para custear o benefício.",
+    "documentos": ["Comprovante de residência", "Declaração de endereço e linhas utilizadas fornecida pelo RH"],
+    "onde": "Setor de Recursos Humanos (RH) da empresa contratante",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 10,
+    "categoria": "Qualificação e Benefícios",
+    "titulo": "Cursos gratuitos de qualificação profissional",
+    "palavras_chave": ["curso gratuito", "qualificacao", "capacitacao", "cursos online"],
+    "resposta": "O governo e o Sistema S oferecem milhares de vagas em cursos gratuitos presenciais e EAD com certificado para melhorar o currículo na busca pelo primeiro emprego.",
+    "documentos": ["CPF", "Conta Gov.br ou cadastro na plataforma de ensino"],
+    "onde": "Portal Escola do Trabalhador 4.0 (gov.br), SENAI ou SENAC",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/qualificacao-profissional",
+    "verificado_em": "2026-11-10"
+  }
+]
